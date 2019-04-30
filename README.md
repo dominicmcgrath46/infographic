@@ -1,2 +1,2 @@
-# infographic
+# Infographic
 my infographic on diabetes
